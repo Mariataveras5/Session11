@@ -16,3 +16,4 @@ def multiple_of_6():
             print("That is not a valid number.")
 
 multiple_of_6()
+
